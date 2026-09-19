@@ -3,3 +3,7 @@ REDIS_HOST: redis.daws85s.online
 CATALOGUE_HOST: catalogue.daws85s.online
 CART_HOST: cart.daws85s.online 
 MYSQL_HOST: mysql.daws85s.online 
+USER_HOST: user.daws85s.online 
+RABBITMQ_HOST: rabbitmq.daws85s.online 
+SHIPPING_HOST: shipping.daws85s.online 
+PAYMENT_HOST: payment.daws85s.online 
